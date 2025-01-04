@@ -30,13 +30,11 @@ Dependency Injection
 
 Configuration Management
 
-C# 10 and .NET 6/7
-
 Prerequisites
 
 ElasticSearch Instance: Ensure ElasticSearch is running locally or on a server accessible by the application.
 
-.NET SDK: Install .NET SDK 6 or later.
+.NET SDK: Install .NET SDK 9 or later.
 
 appsettings.json Configuration:
 
