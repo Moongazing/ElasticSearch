@@ -1,0 +1,6 @@
+@Moongazing.ElasticSearchApi_HostAddress = http://localhost:5258
+
+GET {{Moongazing.ElasticSearchApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

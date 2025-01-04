@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moongazing.ElasticSearch", "Moongazing.ElasticSearch\Moongazing.ElasticSearch.csproj", "{D5F85DC4-E34C-4023-BEEF-D2C08A750AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moongazing.ElasticSearchApi", "Moongazing.ElasticSearchApi\Moongazing.ElasticSearchApi.csproj", "{76362350-0F0F-45EE-B7C3-430B90BCE275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5F85DC4-E34C-4023-BEEF-D2C08A750AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F85DC4-E34C-4023-BEEF-D2C08A750AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F85DC4-E34C-4023-BEEF-D2C08A750AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F85DC4-E34C-4023-BEEF-D2C08A750AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76362350-0F0F-45EE-B7C3-430B90BCE275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76362350-0F0F-45EE-B7C3-430B90BCE275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76362350-0F0F-45EE-B7C3-430B90BCE275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76362350-0F0F-45EE-B7C3-430B90BCE275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
